@@ -87,15 +87,3 @@ You can deploy this project on platforms such as:
 * Vercel
 * Netlify
 * Render
-
----
-
-## 👨‍💻 Author
-
-Developed by **Karan Ankade**
-
----
-
-## 📄 License
-
-This project is open-source and available for learning and development purposes.
