@@ -1,56 +1,101 @@
-# Welcome to IP Navigator
+# 🌐 IP Navigator
 
-## Project info
+IP Navigator is a modern web application that provides useful tools for working with IP addresses.
+It helps users analyze, validate, and explore IP address information through a simple and user-friendly interface.
 
-This project is a set of IP address tools.
+---
 
-## How can I edit this code?
+## 🚀 Features
 
-There are several ways of editing your application.
+* 🔍 IP Address Lookup
+* ✅ IP Address Validation
+* 🌎 Network Information Display
+* ⚡ Fast and Responsive Interface
+* 📱 Mobile Friendly Design
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🛠️ Technologies Used
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+This project is built using modern frontend technologies:
 
-Follow these steps:
+* **React** – For building interactive user interfaces
+* **Vite** – Fast development build tool
+* **TypeScript** – Type-safe JavaScript development
+* **Tailwind CSS** – Utility-first CSS framework
+* **shadcn-ui** – Beautiful and reusable UI components
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 📦 Installation
 
-# Step 3: Install the necessary dependencies.
-npm i
+Follow these steps to run the project locally.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+### 1️⃣ Clone the Repository
+
+```bash
+git clone <YOUR_GITHUB_REPOSITORY_URL>
+```
+
+### 2️⃣ Navigate to the Project Folder
+
+```bash
+cd ip-navigator
+```
+
+### 3️⃣ Install Dependencies
+
+```bash
+npm install
+```
+
+---
+
+## ▶️ Run the Development Server
+
+Start the development server with hot reload:
+
+```bash
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+Open your browser and visit:
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+```
+http://localhost:5173
+```
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 🏗️ Build for Production
 
-## What technologies are used for this project?
+To create an optimized production build:
 
-This project is built with:
+```bash
+npm run build
+```
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-- 
+The production files will be generated in the **dist** folder.
+
+---
+
+## 🌍 Deployment
+
+You can deploy this project on platforms such as:
+
+* GitHub Pages
+* Vercel
+* Netlify
+* Render
+
+---
+
+## 👨‍💻 Author
+
+Developed by **Karan Ankade**
+
+---
+
+## 📄 License
+
+This project is open-source and available for learning and development purposes.
